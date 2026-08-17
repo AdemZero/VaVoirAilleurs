@@ -1,0 +1,23 @@
+Origin: VaVoirAilleurs
+Label: VaVoirAilleurs
+Suite: stable
+Version: 2.1
+Codename: vavoirailleurs
+Architectures: iphoneos-arm64
+Components: main
+Acquire-By-Hash: no
+Description: Official Sileo repository for the VaVoirAilleurs jailbreak tweak.
+Date: Mon, 17 Aug 2026 07:29:50 GMT
+Homepage: https://ademzero.github.io/vavoirailleurs/
+MD5Sum:
+ 5d5cd3dafefe3d3299857010f0dc56d4              967 Packages
+ c6e62d07286a87182bccebb53fce0d85              590 Packages.gz
+SHA1:
+ 419556fbec4476540b2b7aeb3a30097cdc7f752e              967 Packages
+ 65924d1c291a2b900793fb296e7fb0e58799c376              590 Packages.gz
+SHA256:
+ 00ad3c09a66c39a18b27021096fc853784e027de13ab65ba75128ca576b88573              967 Packages
+ d718dfd3d9faf959cb8c79428ffaabe673924b8cda9ca5226743039c237d56c0              590 Packages.gz
+SHA512:
+ edeb1f96456f8d16a4e64f7424f89d65333612662202ae50b948883e9f56bc803db4f82ae9ae2a28cae6202cb93cc65e613da2096a773fe551e9177936e2f170              967 Packages
+ 011507d44e22ae218c74770a140f2715b6de9af9be05caa078940ea1ad16dc07d4cfbea24924928405d5a3a71203bec2a8f0e9f05edb225e31cfb43dcacdbd61              590 Packages.gz

@@ -1,0 +1,30 @@
+{
+  "class": "DepictionTabView",
+  "minVersion": "0.4",
+  "tintColor": "#A855F7",
+  "backgroundColor": "#08050D",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "Overview",
+      "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "# VaVoirAilleurs\n\nGPS location tweak for jailbroken iPhones.\n\n- Fixed GPS location\n- Autonomous fake routes\n- Rootless jailbreak compatible\n- Requires Tweak Injection\n- Does not work on non-jailbroken iPhones",
+          "tintColor": "#A855F7"
+        }
+      ]
+    },
+    {
+      "class": "DepictionStackView",
+      "tabname": "Installation",
+      "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "## Requirements\n\n- Jailbroken iPhone\n- Sileo\n- Tweak Injection enabled\n\nInstall VaVoirAilleurs and respring your device.",
+          "tintColor": "#A855F7"
+        }
+      ]
+    }
+  ]
+}

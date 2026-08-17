@@ -1,0 +1,22 @@
+Package: com.vavoirailleurs.app
+Name: VaVoirAilleurs
+Version: 2.1.0-global
+Architecture: iphoneos-arm64
+Description: Global GPS location tweak with fixed location and autonomous fake routes.
+Author: Adem0
+Maintainer: Adem0
+Section: Tweaks
+Depends: mobilesubstrate
+Conflicts: apt.tinyapps.xgpspro.rootless, cn.tinyapps.xgpspro, net.ajbbo.acgps, net.joebruce.gpsmaster
+Homepage: https://ademzero.github.io/vavoirailleurs/
+Icon: https://ademzero.github.io/vavoirailleurs/assets/icon.png
+SileoDepiction: https://ademzero.github.io/vavoirailleurs/depictions/com.vavoirailleurs.app.json
+Tag: role::enduser
+Filename: debs/VaVoirAilleurs.deb
+Size: 615176
+MD5sum: e16e7054927bccab651ae9775dee7969
+SHA1: 7f968564576a618e1496574c2ac0eeda5f19ef5f
+SHA256: e2b0757f321635766edd9c1250ae4c7b341783d2b70152e8d51654690cb6c295
+SHA512: 08012d7de10bfe0fffd56d782ae98fb9ac2fef3b7aeab5e0ea497482a9aa25e1b419423d66da24836f7987f3293407eb68849a61511105138eeaa1c12758f10f
+Installed-Size: 1124
+
